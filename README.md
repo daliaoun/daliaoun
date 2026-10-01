@@ -92,8 +92,6 @@
 ## 📊 GitHub stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daliaoun&show_icons=true&count_private=true&hide_border=true&bg_color=1B1A17&title_color=A6BA5C&icon_color=A6BA5C&text_color=C9D1D9" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliaoun&layout=compact&hide_border=true&bg_color=1B1A17&title_color=A6BA5C&text_color=C9D1D9" alt="Top languages" />
 
 <br>
