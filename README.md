@@ -93,12 +93,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=1B1A17&title_color=A6BA5C&icon_color=A6BA5C&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1B1A17&title_color=A6BA5C&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=daliaoun&show_icons=true&count_private=true&hide_border=true&bg_color=1B1A17&title_color=A6BA5C&icon_color=A6BA5C&text_color=C9D1D9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliaoun&layout=compact&hide_border=true&bg_color=1B1A17&title_color=A6BA5C&text_color=C9D1D9" alt="Top languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=1B1A17&ring=A6BA5C&fire=A9903A&currStreakLabel=A6BA5C&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daliaoun&hide_border=true&background=1B1A17&ring=A6BA5C&fire=A9903A&currStreakLabel=A6BA5C&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
 
 </div>
 
