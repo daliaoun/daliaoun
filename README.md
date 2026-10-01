@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ali-aoun)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed-ali.aoun@dauphine.eu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5E6E2A?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=5E6E2A&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=daliaoun&style=for-the-badge&color=5E6E2A&label=PROFILE+VIEWS)
 
 </div>
 
